@@ -1,0 +1,91 @@
+body {
+  background-color: hsl(217, 54%, 11%);
+  text-align: left;
+  font-size: 18px;
+  font-family: 'Outfit', sans-serif;
+}
+
+.content {
+  margin: auto;
+  top: 25%;
+  position: absolute;
+  left: 35%;
+  background-color: hsl(216, 50%, 16%);
+  padding: 1.5rem;
+  border-radius: 20px;
+  width: 80px;
+  min-width: 300px;
+  max-width: 22rem;
+}
+
+.equilibrium {
+    border-radius: 12px;
+    max-width: 100%;
+    max-height: 5%;
+    min-width:
+}
+.equilibrium: hover {
+  color: hsl(215, 51%, 70%);
+
+}
+h2 {
+  color: hsl(0, 0%, 100%);
+}
+span {
+  color: hsl(0, 0%, 100%);
+}
+.main {
+  font-weight: 300;
+  color: hsl(215, 51%, 70%);
+  font-size: 25px;
+  box-sizing: border-box;
+}
+.ETH {
+  display: inline-block;
+    color: hsl(178, 100%, 50%)
+}
+.time1 {
+  float: right;
+  display: inline-block;
+
+}
+.time2 {
+  display: inline-block;
+  color: hsl(215, 51%, 70%);
+  text-align: right;
+
+}
+hr {
+    margin: 20px auto;
+    border-color: hsl(215, 51%, 70%);
+
+}
+.avatar {
+  float: left;
+  width: 10%;
+  border: 0.5px solid hsl(0, 0%, 100%);
+  border-radius: 100%;
+}
+.last {
+    color: hsl(215, 51%, 70%);
+    padding-left: 20px;
+
+
+}
+.avatar-div::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.avatar-div {
+  display: flex;
+      align-items: center;
+}
+.time-svg {
+  transform: translateY(2px);
+    padding-right: 3px;
+}
+.ok {
+    transform: translateY(2px);
+    padding-right: 2px;
+}
